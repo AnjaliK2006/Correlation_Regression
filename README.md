@@ -1,5 +1,6 @@
 # Correlation and regression for data analysis
-## Name : Anjali K - 212224040024
+## Name : Anjali K 
+# Register Number : 212224040024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
